@@ -6,3 +6,6 @@ tes.txt contains output of githug ruby game
 
 ### commit #1 level 10
 Fri Jun 17 10:44:23 AM EEST 2022
+
+###commit #2 level 14
+Fri Jun 17 04:44:24 PM EEST 2022
