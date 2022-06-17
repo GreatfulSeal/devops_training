@@ -1,0 +1,12 @@
+root@7dab4a046027:/git_hug# githug
+********************************************************************************
+*                                    Githug                                    *
+********************************************************************************
+What is the full file name of the untracked file? database.yml
+Congratulations, you have solved the level!
+
+Name: number_of_files_committed
+Level: 10
+Difficulty: *
+
+There are some files in this repository, how many of the files are staged for a commit?
