@@ -30,3 +30,13 @@ Level: 20
 Difficulty: **
 
 Commit your changes with the future date (e.g. tomorrow).
+
+********************************************************************************
+*                                    Githug                                    *
+********************************************************************************
+What is the url of the remote repository? https://github.com/githug/not_a_repo
+Congratulations, you have solved the level!
+
+Name: pull
+Level: 26
+Difficulty: **
