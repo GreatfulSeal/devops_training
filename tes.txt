@@ -1,4 +1,3 @@
-root@7dab4a046027:/git_hug# githug
 ********************************************************************************
 *                                    Githug                                    *
 ********************************************************************************
@@ -20,3 +19,14 @@ Level: 14
 Difficulty: ***
 
 We have a file called `oldfile.txt`. We want to rename it to `newfile.txt` and stage this change
+
+********************************************************************************
+*                                    Githug                                    *
+********************************************************************************
+Congratulations, you have solved the level!
+
+Name: commit_in_future
+Level: 20
+Difficulty: **
+
+Commit your changes with the future date (e.g. tomorrow).
